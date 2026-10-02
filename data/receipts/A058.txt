@@ -1,0 +1,23 @@
+==============================================
+            CITY GENERAL HOSPITAL             
+               Official Receipt               
+==============================================
+Receipt   : INV027
+Visit     : A058   2026-10-02 08:30
+Patient   : Chhun Phalla (P001, age 2)
+Doctor    : Dr. Chan Ratha - Cardiology
+Department: Cardiology
+----------------------------------------------
+Consultation fee                         35.00
+  Paracetamol 500mg x5                    0.50
+Medicines subtotal                        0.50
+Service charge                            5.00
+Discount (age)                           -3.50
+----------------------------------------------
+TOTAL                                    37.00
+Status                                    Paid
+Paid by                                   Cash
+==============================================
+Printed 2026-10-02 23:55
+         Thank you and get well soon.         
+==============================================
